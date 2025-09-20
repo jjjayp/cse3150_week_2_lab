@@ -1,0 +1,3 @@
+greeter
+*.o
+__pycache__/test.cpython-313-pytest-8.4.2.pyc
